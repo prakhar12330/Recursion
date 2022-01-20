@@ -20,3 +20,6 @@ int main()
    
     return 0;
 }
+
+//Time Complexity--> O(n)-->We are calling n functions
+//Space Complexity--> O(n) -->In Stack Space there were n function calls
