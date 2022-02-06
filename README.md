@@ -1,2 +1,2 @@
 # Recursion
-Recursion [Codes]
+A repository containing solutions of interesting recursion problems
